@@ -22,6 +22,6 @@
     }
   }
 
-  console.log(maxPalindrome);
+  print(maxPalindrome);
 
 }).call(this);
